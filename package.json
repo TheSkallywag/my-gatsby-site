@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-starter-default",
-  "description": "Gatsby default starter",
+  "name": "my-gatsby-site",
+  "description": "Gatsby minimal starter",
   "version": "1.0.0",
   "author": "Skallywag <657522+TheSkallywag@users.noreply.github.com>",
   "private": true,
